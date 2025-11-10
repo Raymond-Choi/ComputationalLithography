@@ -10,8 +10,9 @@ It bridges theoretical foundations, industrial practice, and computational model
 重点包括 *光学邻近效应修正（OPC）*、*反向光刻技术（ILT）* 以及 *基于机器学习的工艺优化*。本项目旨在连接理论研究、产业实践与计算建模，为光刻工程师与科研人员提供系统化参考。
 
 ---
-
 ## 📂 Repository Structure / 仓库结构
+
+```text
 ComputationalLithography/
 ├── README.md
 ├── docs/
@@ -31,7 +32,7 @@ ComputationalLithography/
 │   └── schematic.png
 ├── LICENSE
 └── CONTRIBUTING.md
-
+```
 
 
 ---
