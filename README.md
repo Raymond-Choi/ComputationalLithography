@@ -15,20 +15,20 @@ It bridges theoretical foundations, industrial practice, and computational model
 ComputationalLithography/
 ├── README.md
 ├── docs/
-│ ├── 01_introduction.md # 光刻与计算光刻概述
-│ ├── 02_opc_fundamentals.md # OPC 基本原理与方法
-│ ├── 03_inverse_lithography.md # 反向光刻技术 (ILT)
-│ ├── 04_ml_for_opc.md # 机器学习在 OPC / ILT 中的应用
-│ ├── 05_process_integration.md # 光刻设备与工艺控制接口
-│ ├── 06_case_studies.md # 案例与研究进展
-│ ├── 07_future_trends.md # 挑战与未来趋势
-│ └── references.bib
+│   ├── 01_introduction.md          # 光刻与计算光刻概述
+│   ├── 02_opc_fundamentals.md      # OPC 基本原理与方法
+│   ├── 03_inverse_lithography.md   # 反向光刻技术 (ILT)
+│   ├── 04_ml_for_opc.md            # 机器学习在 OPC / ILT 中的应用
+│   ├── 05_process_integration.md   # 光刻设备与工艺控制接口
+│   ├── 06_case_studies.md          # 案例与研究进展
+│   ├── 07_future_trends.md         # 挑战与未来趋势
+│   └── references.bib
 ├── code/
-│ ├── simple_opc_demo/
-│ │ ├── notebook.ipynb
-│ │ └── data/
+│   ├── simple_opc_demo/
+│   │   ├── notebook.ipynb
+│   │   └── data/
 ├── figures/
-│ └── schematic.png
+│   └── schematic.png
 ├── LICENSE
 └── CONTRIBUTING.md
 
